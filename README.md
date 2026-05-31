@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👨‍💻 Full Stack Developer (Web+Mobile+Cloud+AI+Testing)
+### 👨‍💻 Full Stack Developer (Web+Mobile+Cloud+GenAI+Testing)
 > *Architecting robust backends, crafting pixel-perfect frontends,*
 > *and deploying AI-powered products — end to end.*
 
